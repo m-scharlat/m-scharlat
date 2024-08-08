@@ -8,7 +8,7 @@
 
 - I mainly work with Python (Pandas), R, SQL, Excel, and Tableau. But, I am always on the lookout for new languages, platforms, or tools that further my knowledge and skills.
 
-- Feel free to check out some of my portfolio projects!
+- Feel free to check out some of my portfolio projects! --> https://www.datascienceportfol.io/mayerscharlat
 
 - You can connect with me on LinkedIn at https://www.linkedin.com/in/mayer-scharlat/ or email me at mayer.scharlat@gmail.com.
 
