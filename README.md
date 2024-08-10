@@ -1,7 +1,5 @@
 - Hi there, my name is Mayer.
 
-- I am a Data Analyst.
-
 - In recent years, after earning a degree in Business & Economics, I have focused my time and energy building a data analysis skillset.
 
 - I mainly work with Python (Pandas), Excel, SQL and Tableau. But, I am always on the lookout for new languages, platforms, or tools that further my knowledge and skills.
