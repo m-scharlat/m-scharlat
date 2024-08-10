@@ -2,11 +2,9 @@
 
 - I am a Data Analyst.
 
-- I first learned to program on my own when I was in 9th grade and have worked with all different types of programming languages over the years.
+- In recent years, after earning a degree in Business & Economics, I have focused my time and energy building a data analysis skillset.
 
-- But in more recent years, after earning a degree in Business & Economics, I have focused my time and energy on learning the ropes of Data Analysis.
-
-- I mainly work with Python (Pandas), R, SQL, Excel, and Tableau. But, I am always on the lookout for new languages, platforms, or tools that further my knowledge and skills.
+- I mainly work with Python (Pandas), Excel, SQL and Tableau. But, I am always on the lookout for new languages, platforms, or tools that further my knowledge and skills.
 
 - Feel free to check out some of my portfolio projects! --> https://www.datascienceportfol.io/mayerscharlat
 
