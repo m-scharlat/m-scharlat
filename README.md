@@ -1,6 +1,6 @@
 - Hi there, my name is Mayer.
 
-- I mainly work with Python (Pandas), Excel, SQL and Tableau. But, I am always on the lookout for new languages, platforms, or tools that further my knowledge and skills.
+- I mainly work with Excel, SQL, Tableau, and Python (Pandas). But, I am always on the lookout for new languages, platforms, or tools that further my knowledge and skills.
 
 - Feel free to check out some of my portfolio projects! --> https://www.datascienceportfol.io/mayerscharlat
 
