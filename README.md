@@ -1,10 +1,8 @@
-- Hi there, my name is Mayer.
+- Hi there & welcome to my Github.
 
-- I mainly work with Excel, SQL, Tableau, and Python (Pandas). But, I am always on the lookout for new languages, platforms, or tools that further my knowledge and skills.
+- My name is Mayer and I am a data & business analyst. Skilled in Excel, SQL, Tableau I combine my domain knowledge gained from working in several startups with my ability to surface data-driven insights to assist strategic decision-making. 
 
-- Feel free to check out some of my portfolio projects! --> https://www.datascienceportfol.io/mayerscharlat
-
-- You can connect with me on LinkedIn at https://www.linkedin.com/in/mayer-scharlat/ or email me at mayer.scharlat@gmail.com.
+- Check out some of my portfolio projects and feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mayer-scharlat)!
 
 <!---
 m-scharlat/m-scharlat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
